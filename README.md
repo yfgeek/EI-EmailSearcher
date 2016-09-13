@@ -28,4 +28,4 @@ Search ID是指在http://www.engineeringvillage.com 经过一定网址搜索后�
   self.smtp_server = "smtp.qq.com" 
 ```
 ## 储存
-每达到间隔数，便会生成`标题-时间.txt`的文件用于储存备份，并以附件的形式发送到邮箱里备份
+每达到间隔数，便会生成`标题-时间.txt`的文件用于储存备份，并以附件的形式发送到邮箱里备份。
